@@ -15,9 +15,9 @@ menu:
 
 Szokolyi Sólyom Érték és Termékház nyitvatartása:
 
-* **Hétfő-Péntek:** 8:00am to 6:00pm EST
-* **Szombat:** 8:00am to 5:00pm EST
-* **Vasárnap:** 9:00am to 12:00pm EST
+* **Hétfő-Péntek:** 8:00 - 18:00
+* **Szombat:** 8:00 - 18:00
+* **Vasárnap:** Zárva
 
 ## Elérhetőségek
 
