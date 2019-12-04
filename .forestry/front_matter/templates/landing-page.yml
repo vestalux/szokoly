@@ -58,7 +58,7 @@ fields:
   - name: icon
     label: Icon
     type: file
-    hidden: false
+    hidden: true
     default: ''
   hidden: false
   default: ''
@@ -68,7 +68,8 @@ fields:
   description: Enables a news section with a twitter feed & latest posts
 - type: image_gallery
   name: partners
-  label: Partner Logos
+  label: " "
+  hidden: true
 - type: boolean
   name: show_staff
   label: Show Staff?
