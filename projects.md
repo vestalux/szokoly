@@ -9,7 +9,7 @@ menu:
     weight: 4
     title: Termékek
   footer:
-    identifier: _projects
+    identifier: _termekek
     url: "/projects/"
     weight: 1
     title: Termékek
