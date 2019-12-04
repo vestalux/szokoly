@@ -12,5 +12,6 @@ menu:
   footer:
     identifier: _posts
     weight: 2
+    title: Blog
 
 ---
