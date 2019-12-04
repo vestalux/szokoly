@@ -1,16 +1,16 @@
 ---
-title: Portable EEG Montoring Device
-date: 2016-04-20 00:00:00 +0000
+title: Lekvár
+date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: A portable device for epileptic patients.
-banner_image: "/uploads/2018/02/17/neurons.jpg"
-sub_heading: A post-modern taking on Engineering in the Digital World
+banner_image: "/uploads/2019/12/04/photo-1552503983-37e5802c2cf3.jpg"
+sub_heading: Eperlekvár
 tags:
 - engineering
 - research
 slug: ''
----
 
+---
 ## Overview
 
 Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
