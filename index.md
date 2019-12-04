@@ -14,7 +14,7 @@ services:
 sub_heading: Farmtól az asztalig
 textline: Várjuk sok szeretettel Üzleteinkben
 hero_button:
-  text: Learn more
+  text: Tudjon meg többet
   href: "/about"
 show_news: false
 show_staff: false
