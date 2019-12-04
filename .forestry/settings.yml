@@ -5,35 +5,35 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Content
+  label: Tartalom
 - type: jekyll-posts
-  label: Posts
+  label: Bejegyzések
   create: all
   templates:
   - post
 - type: jekyll-pages
-  label: Pages
+  label: Oldalak
   create: all
   templates:
   - landing-page
   - page
 - type: directory
-  path: _people
-  label: People
+  path: _uzletek
+  label: Üzletek
   create: all
   match: "*"
   templates:
   - person
 - type: directory
-  path: _projects
-  label: Projects
+  path: _termekek
+  label: Termékek
   create: all
   match: "*"
   templates:
   - project
 - type: document
   path: _data/information.yml
-  label: Contact Information
+  label: Kapcsolat
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
