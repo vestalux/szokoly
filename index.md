@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Szokolyi Sólyom Érték és Termékház
+  description: 8655 Som, Ady Endre utca 48
+  icon: ''
 - heading: Székesfehérvár
   description: Hamarosan nyit üzletünk
   icon: ''
