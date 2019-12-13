@@ -7,7 +7,7 @@ partners: []
 services:
 - heading: Szokolyi Sólyom Érték és Termékház
   description: 8655 Som, Ady Endre utca 48
-  icon: ''
+  icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
 - heading: Székesfehérvár
   description: Hamarosan nyit üzletünk
   icon: ''
