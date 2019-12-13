@@ -58,8 +58,8 @@ fields:
   - name: icon
     label: Icon
     type: file
-    hidden: true
-    default: ''
+    hidden: false
+    default: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
   hidden: false
   default: ''
 - type: boolean
