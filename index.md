@@ -16,7 +16,7 @@ textline: Várjuk sok szeretettel Üzleteinkben
 hero_button:
   text: Tudjon meg többet
   href: "/about"
-show_news: false
+show_news: true
 show_staff: false
 menu:
   navigation:
