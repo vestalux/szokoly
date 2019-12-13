@@ -1,7 +1,7 @@
 ---
 title: Rólunk
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2019/12/04/20229824_243812692803480_8575164000267248518_o.jpg"
+banner_image: "/uploads/2019/12/13/25353726_1467717939992468_1884118149786037800_n.jpg"
 heading: 'Szokolyi Sólyom Szociális Szövetkezet '
 sub_heading: ''
 layout: landing-page
