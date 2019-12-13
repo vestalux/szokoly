@@ -10,7 +10,7 @@ services:
   icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
 - heading: Székesfehérvár
   description: Hamarosan nyit üzletünk
-  icon: ''
+  icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
 sub_heading: Farmtól az asztalig
 textline: Várjuk sok szeretettel Üzleteinkben
 hero_button:
