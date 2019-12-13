@@ -68,8 +68,8 @@ fields:
   description: Enables a news section with a twitter feed & latest posts
 - type: image_gallery
   name: partners
-  label: " "
-  hidden: true
+  label: " Partnerek"
+  hidden: false
 - type: boolean
   name: show_staff
   label: Show Staff?
