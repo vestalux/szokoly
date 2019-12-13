@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
+admin_path: vezerlopult
 webhook_url: 
 sections:
 - type: heading
@@ -25,7 +25,7 @@ sections:
   templates:
   - person
 - type: directory
-  path: _termekek
+  path: _projects
   label: Termékek
   create: all
   match: "*"
