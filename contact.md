@@ -11,9 +11,9 @@ menu:
     weight: 5
 
 ---
-## Üzletünk Nyitvatartás
+## Üzletünk Nyitvatartása
 
-Szokolyi Sólyom Érték és Termékház:
+Szokolyi Sólyom Érték és Termékház
 [8655 Som, Ady Endre utca 48](https://www.google.hu/maps/place/Som,+Ady+Endre+u.+48,+8655/@46.8085755,18.1369737,17z/data=!3m1!4b1!4m5!3m4!1s0x4769c5a3c061a2eb:0x4010cc3bf8965f75!8m2!3d46.8085755!4d18.1391624)
 
 * **Hétfő-Péntek:** 8:00 - 18:00

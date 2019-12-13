@@ -23,4 +23,4 @@ Nagyon fontosnak tartjujk a kézműves termékek propagálását ezért kizáró
 
 ![](/uploads/2019/12/04/bolt.jpg)
 
-Termékeink között rengeteg száraztészta, lekvár, savanyűság, befőtt. szörp található. A termékek értékesítésében hat kollégánk vesz részt akik közül sokan a közmunka programból kerültek ki illetve tartós munkanélküliségből sikerült kitörniük ezzel a munkával. Minden nálunk vásárolt termékkel az ő foglalkoztatásukat és munkaerőpiaci sikerüket is elősegítik.
+Termékeink között rengeteg száraztészta, lekvár, savanyúság, befőtt. szörp található. Ezeket a a termékeket mindíg kiegészítjök szezonális ajánlatokkal is. A termékek értékesítésében hat kollégánk vesz részt akik közül sokan a közmunka programból kerültek ki illetve tartós munkanélküliségből sikerült kitörniük ezzel a munkával. Minden nálunk vásárolt termékkel az ő foglalkoztatásukat és munkaerőpiaci sikerüket is elősegítik.
