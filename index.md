@@ -2,7 +2,7 @@
 title: Kezdőlap
 banner_image: "/uploads/2019/12/04/photo-1461354464878-ad92f492a5a0.jpg"
 layout: landing-page
-heading: 'Szokolyi Sólyom Szociális Szövetkezet '
+heading: 'Szokolyi Sólyom Start Szociális Szövetkezet '
 partners: []
 services:
 - heading: Nagyszokoly
