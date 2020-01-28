@@ -12,7 +12,7 @@ services:
   description: 8655 Som, Ady Endre utca 48
   icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
 - heading: Székesfehérvár
-  description: Hamarosan nyit üzletünk
+  description: 'Megnyitás alatt - 8000 Székesfehérvár, Tolnai utca 42. '
   icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
 sub_heading: Farmtól az asztalig
 textline: Várjuk sok szeretettel Üzleteinkben
