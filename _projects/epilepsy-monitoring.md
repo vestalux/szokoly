@@ -3,11 +3,9 @@ title: Lekvár
 date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: A portable device for epileptic patients.
-banner_image: "/uploads/2019/12/04/photo-1552503983-37e5802c2cf3.jpg"
-sub_heading: Eperlekvár
-tags:
-- engineering
-- research
+banner_image: "/uploads/2020/01/28/szokoly-59.jpg"
+sub_heading: Szilvalekvár
+tags: []
 slug: ''
 
 ---
