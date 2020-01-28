@@ -27,5 +27,5 @@ menu:
     weight: 1
 
 ---
-7097 Nagyszokoly, Kossuth utca 85.  
+  
  
