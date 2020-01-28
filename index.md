@@ -5,10 +5,10 @@ layout: landing-page
 heading: 'Szokolyi Sólyom Szociális Szövetkezet '
 partners: []
 services:
-- heading: Nagyszokoly szálláshely és borozó
-  description: 7097 Nagyszokoly, Kossuth utca 85.
+- heading: Nagyszokoly
+  description: Megnyitás alatt
   icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
-- heading: Szokolyi Sólyom Érték és Termékház
+- heading: Som
   description: 8655 Som, Ady Endre utca 48
   icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
 - heading: Székesfehérvár
@@ -27,3 +27,5 @@ menu:
     weight: 1
 
 ---
+7097 Nagyszokoly, Kossuth utca 85.  
+ 
