@@ -6,7 +6,7 @@ heading: 'Szokolyi Sólyom Szociális Szövetkezet '
 partners: []
 services:
 - heading: Nagyszokoly
-  description: Megnyitás alatt
+  description: Megnyitás alatt - 7097 Nagyszokoly, Kossuth utca 85.
   icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
 - heading: Som
   description: 8655 Som, Ady Endre utca 48
