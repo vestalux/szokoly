@@ -1,9 +1,8 @@
 ---
 tags: []
-title: Szörpök
+title: Szörp
 sub_heading: ''
 banner_image: ''
 slug: ''
-published: false
 
 ---
