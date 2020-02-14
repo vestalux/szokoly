@@ -9,7 +9,7 @@ services:
   description: Megnyitás alatt - 7097 Nagyszokoly, Kossuth utca 85.
   icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
 - heading: Som
-  description: 8655 Som, Ady Endre utca 48
+  description: '8655 Som, Hrsz.: 098 (Platán Étterem mellett)'
   icon: "/uploads/2019/12/13/iconfinder_map-marker_299087.png"
 - heading: Székesfehérvár
   description: 'Megnyitás alatt - 8000 Székesfehérvár, Tolnai utca 42. '
@@ -25,6 +25,7 @@ menu:
   navigation:
     identifier: _index
     weight: 1
+published: false
 
 ---
   
