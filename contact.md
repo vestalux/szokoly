@@ -1,7 +1,7 @@
 ---
 title: Kapcsolat
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2019/12/04/photo-1552503983-37e5802c2cf3.jpg"
+banner_image: "/uploads/2020/01/28/szokoly-7.jpg"
 heading: Várjuk Sok Szeretettel üzletünkben
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
@@ -9,6 +9,7 @@ menu:
   navigation:
     identifier: _contact
     weight: 5
+published: false
 
 ---
 ## Üzleteink Elérhetősége és Nyitvatartása
@@ -17,8 +18,8 @@ menu:
 
 [8655 Som, 098 Hsz](https://www.google.hu/maps/place/65/@46.7888047,18.1474713,19z)
 
-* **Hétfő-Péntek:** 8:00 - 18:00
-* **Szombat:** 8:00 - 18:00
+* **Hétfő-Péntek:** 8:30 - 16:30
+* **Szombat:** 8:30 - 16:30
 * **Vasárnap:** Zárva
 
 ### Szokolyi Sólyom Székesfehérvár
