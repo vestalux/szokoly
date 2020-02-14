@@ -28,5 +28,6 @@ fields:
   default: ''
 pages:
 - _projects/füstöltáru.md
+- _projects/kézműves-termék.md
 - _projects/szörpök-1.md
 - _projects/szörpök.md
