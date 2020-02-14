@@ -27,6 +27,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/ajándéktárgy.md
 - _projects/füstöltáru.md
 - _projects/kézműves-termék.md
 - _projects/szörpök-1.md
